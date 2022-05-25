@@ -6,8 +6,8 @@
 
 <p align="left">📚 A third-year B.Tech student of Computer Science and Engineering at PES University, Bengaluru, India </p>
 <p align="left">💻 ML mentor at hackerspace, PESU, Bengaluru, India </p>
-<p align="left">📈 Machine Learning, Graph theory, Memes</p>
-<p align="left">👨‍💻 Learning about graphs, information theory, blockchain and iot</p>
+<p align="left">📈 Machine Learning, Graph theor</p>
+<p align="left">👨‍💻 Memes, Learning about graphs, information theory, blockchain and iot</p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -16,7 +16,6 @@
 <a href="https://linkedin.com/in/sammith-s-bharadwaj-040645198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sammith-s-bharadwaj-040645198" height="30" width="40" /></a>
 <a href="https://kaggle.com/sammithsb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sammithsb" height="30" width="40" /></a>
 <a href="https://instagram.com/sammith_bharadwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sammith_bharadwaj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sammithsb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sammithsb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
