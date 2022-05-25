@@ -27,7 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammithsb&show_icons=true&locale=en&layout=compact" alt="sammithsb" /></p>
 
 
-<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SammithSB&theme=github"/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammithsb&show_icons=true&locale=en" alt="sammithsb" /></p>
 
