@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/sammith130" target="blank"><img src="https://img.shields.io/twitter/follow/sammith130?logo=twitter&style=for-the-badge" alt="sammith130" /></a> </p>
 
-<p align="left">📚 A third-year B.Tech student of Computer Science and Engineering at PES University, Bengaluru, India </p>
+<p align="left">📚 A fourth-year B.Tech student of Computer Science and Engineering at PES University, Bengaluru, India </p>
 <p align="left">💻 ML mentor at hackerspace, PESU, Bengaluru, India </p>
 <p align="left">📈 Machine Learning, Graph theor</p>
 <p align="left">👨‍💻 Memes, Learning about graphs, information theory, blockchain and iot</p>
