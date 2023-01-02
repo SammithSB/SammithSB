@@ -6,7 +6,7 @@
 
 <p align="left">📚 A fourth-year B.Tech student of Computer Science and Engineering at PES University, Bengaluru, India </p>
 <p align="left">💻 ML mentor at hackerspace, PESU, Bengaluru, India </p>
-<p align="left">📈 Machine Learning, Graph theor</p>
+<p align="left">📈 Machine Learning, Graph theoryy</p>
 <p align="left">👨‍💻 Memes, Learning about graphs, information theory, blockchain and iot</p>
 
 
